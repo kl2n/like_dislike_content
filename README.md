@@ -1,1 +1,1 @@
-# like_dislike_content
+This is like/dislike content testing project
